@@ -1,0 +1,31 @@
+﻿<Window x:Class="ReportExport.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReportExport"
+        mc:Ignorable="d"
+        Title="Учет продаж" Height="300" Width="400" ResizeMode="CanMinimize">
+    <Grid Background="{StaticResource MainColor}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Resources/Header.png" TileMode="FlipX" Stretch="Fill" AlignmentY="Top" Viewport="950,50,950,50" ViewportUnits="Absolute" />
+            </Grid.Background>
+
+            <StackPanel Orientation="Horizontal">
+                <Image Source="/Resources/betar_logo_white.png" Margin="5,5,15,5" HorizontalAlignment="Left" />
+                <TextBlock Text="МЕТТЭМ-БЕТАР" FontSize="16" Foreground="White" VerticalAlignment="Center" FontStyle="Italic"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Name="ExelExportBtn" Content="Экспорт в Exel" Height="30" Width="200" Margin="0,0,0,15" Style="{StaticResource btnExel}" Click="ExelExportBtn_Click"/>
+            <Button Name="WordExportBtn" Content="Экспорт в Word" Height="30" Width="200" Style="{StaticResource btnWord}" Click="WordExportBtn_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

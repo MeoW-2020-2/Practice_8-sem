@@ -1,0 +1,215 @@
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-2\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-3\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ReportExport.exe.config
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ReportExport.exe
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ReportExport.pdb
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.dll
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.xml
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csprojAssemblyReference.cache
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\MainWindow.g.cs
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\App.g.cs
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport_Content.g.cs
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\App.baml
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\MainWindow.baml
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.g.resources
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.exe
+F:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-4 — копия\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-6\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-7\ReportExport\obj\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\ReportExport.exe.config
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\ReportExport.pdb
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.csproj.ResolveComReference.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\App.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport_Content.g.cs
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport_MarkupCompile.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport_MarkupCompile.lref
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\App.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.g.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.Properties.Resources.resources
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.csproj.GenerateResource.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.csproj.CopyComplete
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.exe
+D:\__Практика_8 сем\ОТЧЕТЫ\ПП 02_8 сем\Выполнение по видео_ПП 02_8 сем\ReportExport-8\ReportExport\obj\Debug\ReportExport.pdb
